@@ -1,16 +1,42 @@
-![thumbnail-Formação Java (3)](https://user-images.githubusercontent.com/66698429/226652162-77d758f2-3d34-4f6d-bb9b-37b3c00d0759.png)
+# 🎬 ScreenMatch, Estudos em POO com Java
 
+Este repositório foi criado como parte do acompanhamento da **Formação em Programação Orientada a Objetos (POO) com Java**, oferecida pela **Alura**.
 
-# Java: trabalhando com listas e coleções de dados
+O projeto **ScreenMatch** serve como base para o estudo de conceitos fundamentais de POO, como:
 
-Projeto desenvolvido no terceiro curso da formação Java da Alura
+* Classes e objetos
+* Encapsulamento
+* Herança
+* Polimorfismo
+* Interfaces
+* Coleções e boas práticas com Java
 
+---
 
-## 🔨 Objetivos do projeto
+##  Além do curso
 
-- Mergulhar mais profundamente em Java, entendendo a hierarquia de classes e métodos;
-- Aprender a representar uma lista de objetos; 
-- Conhecer os recursos para manipulação dessa lista, como inclusão, exclusão, ordenação;
-- Fazer casting de objetos e identificar o tipo dos mesmo;
-- Construir os objetos já com valores e com diferentes critérios;
-- Avançar nos estudos e entender novos conceitos primordiais para o desenvolvimento de aplicações back-end.
+Embora o repositório tenha nascido a partir do curso, ele **não se limita ao conteúdo apresentado em aula**.
+
+Aqui eu utilizo o projeto como um **laboratório de experimentação**, expandindo os limites propostos, testando ideias próprias, refatorando trechos de código e explorando novas abordagens sempre que surge curiosidade ou vontade de ir além.
+
+Em outras palavras: este projeto é tanto **estudo guiado** quanto **brincadeira séria com código** 😄
+
+---
+
+## 📚 Créditos
+
+Todo o conteúdo base, a estrutura inicial e as orientações didáticas foram aprendidos através da **Alura**, dentro da formação de POO em Java.
+
+Um agradecimento especial à **professora Jacqueline Oliveira**, pelas aulas claras, didáticas e pela condução do aprendizado ao longo do curso.
+
+---
+
+## 🛠️ Observações
+
+* O código pode conter variações em relação ao apresentado nas aulas
+* Refatorações e experimentos fazem parte do processo
+* O repositório evolui conforme o avanço dos estudos
+
+---
+
+✨ Projeto em constante evolução, assim como o aprendizado.
